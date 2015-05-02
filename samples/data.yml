@@ -28,7 +28,7 @@ params:
 
 env:
   # ensure locale exists in container, you may need to install it
-  LANG: fr_CA.UTF-8
+  LANG: fr_FR.UTF-8
 
 volumes:
   - volume:
